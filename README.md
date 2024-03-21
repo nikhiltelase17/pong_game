@@ -1,4 +1,4 @@
- **# Pong: Relive the Retro Rivalry**
+# Pong: Relive the Retro Rivalry**
 
 **Welcome to the classic game of Pong, brought to life with Python!** Get ready to test your reflexes and challenge your friends in this two-player battle of pixelated paddles and bouncing balls. 
 
